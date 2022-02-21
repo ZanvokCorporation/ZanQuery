@@ -1,0 +1,8 @@
+Database View
+*********************************************
+# = Non Readable ZanQuery Files
+* = Non deletable ZanQuery Files
++----------------------------------+
+zql_manifest #*
+zanquery_manifest #*
+test
