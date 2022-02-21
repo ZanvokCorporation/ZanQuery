@@ -4,9 +4,9 @@ ZanQuery 1.00 Technical Preview 5 ----------------------------------------------
 What's New ?   
  We have fixed many bugs present in the previous version of ZanQuery  
 1. Rebranded from ZQL to ZanQuery  
-2. 2. Added strong hardcoded file paths 
+2. Added strong hardcoded file paths 
 3. Fixed bug in the ZanQuery.dat file  
-4. 4. Improved Show Databases command  
+4. Improved Show Databases command  
   
   
 Overview  
@@ -16,12 +16,12 @@ ZanQuery (formerly ZQL) is a SQL like Query Language, which is still in developm
   
 Features  Currently supported features:  
 1. Create Database  
-2. 2. Show Database  
-3. 3. Create Table  
-4. 4. Add Columns & Rows  
-5. 5. CMD  
+2. Show Database  
+3. Create Table  
+4. Add Columns & Rows  
+5. CMD  
 6. ZanvokDB  
-7. 7. Ping  
+7. Ping  
   
 System Requirements  
 • 20MB of free disk space or higher  
